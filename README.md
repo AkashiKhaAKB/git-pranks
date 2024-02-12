@@ -13,4 +13,8 @@ If you have your own git pranks to share, feel free to contribute to this reposi
 
 Let the laughter and coding commence!
 
-Genarated by ai bcuz i am lazy
+## Credits
+
+Genarated By AI Because i am pretty lazy
+Github Tips and tricks tutorial by CoderDave on youtube
+Github and git for beginners tutorial by Coder Coder on youtube
