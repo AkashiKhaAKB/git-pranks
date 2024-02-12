@@ -15,6 +15,6 @@ Let the laughter and coding commence!
 
 ## Credits
 
-Genarated By AI Because i am pretty lazy
-Github Tips and tricks tutorial by CoderDave on youtube
-Github and git for beginners tutorial by Coder Coder on youtube
+Genarated By AI Because i am pretty lazy\n
+Github Tips and tricks tutorial by CoderDave on youtube\n
+Github and git for beginners tutorial by Coder Coder on youtube\n
