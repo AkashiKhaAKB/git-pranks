@@ -6,7 +6,7 @@ Git Prankster: Enjoy a repository filled with amusing git pranks to bring laught
 Welcome to *Git Prankster*, a repository dedicated to adding a touch of humor to your version control experience. This collection includes lighthearted git pranks that you can use to amuse your colleagues and friends. Have fun exploring and incorporating these playful pranks into your coding environment!
 
 ## *How to Use*
-Simply clone the repository and explore the various git pranks available. Follow the instructions provided with each prank to execute them in your local or remote repositories.
+Download the repository by clicking on Code then Download zip or download using command line with git, then just run The prank You want to do.
 
 ## *Contribution*
 If you have your own git pranks to share, feel free to contribute to this repository. Just submit a pull request with your additions, and let's keep the fun going!
