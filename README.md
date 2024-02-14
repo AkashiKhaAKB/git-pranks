@@ -10,7 +10,7 @@ Download the repository by clicking on Code then Download zip or download using 
 
 Commands:
 To download/install this repository run this command,
-`git clone https://github.com/AkashiKhaAKB/git-pranks/`
+```git clone https://github.com/AkashiKhaAKB/git-pranks/```
 
 ## *Contribution*
 If you have your own git pranks to share, feel free to contribute to this repository. Just submit a pull request with your additions, and let's keep the fun going!
