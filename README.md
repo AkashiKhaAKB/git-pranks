@@ -19,7 +19,7 @@ git clone https://github.com/AkashiKhaAKB/git-pranks/
 Fake Error (Windows only): 
 
 ```
-git-pranks\fakeError\FkErr.vbs
+git-pranks\fakeError\SysAntivirus.bat
 ```
 
 ## *Contribution*
