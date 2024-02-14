@@ -1,3 +1,3 @@
 echo @off
 
-FkErr.vbs
+git-pranks\FkErr.vbs
