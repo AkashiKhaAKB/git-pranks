@@ -19,7 +19,13 @@ git clone https://github.com/AkashiKhaAKB/git-pranks/
 Fake Error (Windows only): 
 
 ```
-git-pranks\fakeError\SysAntivirus.bat
+git-pranks\fakeError\SysAntivirus.cmd
+```
+
+Nyan Cmd (Windows only): 
+
+```
+git-pranks\cmdPrank\NyanCmd.cmd
 ```
 
 ## *Contribution*
